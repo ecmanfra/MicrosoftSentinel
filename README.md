@@ -8,6 +8,7 @@ Useful information and links when managing Sentinel
 
 - [jamesory/MicrosoftSentinelXPATH](https://github.com/jamesory/MicrosoftsentinelXPATH)
 - [jeffreyappel/amaagent](https://jeffreyappel.nl/collect-security-events-in-sentinel-with-the-new-ama-agent-and-dcr/)
+- [robertorodriguez/techcommunity](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/testing-the-new-version-of-the-windows-security-events-connector/ba-p/2483369)
 
 
 ### Community Repositories
