@@ -7,7 +7,7 @@ Useful information and links when managing Sentinel
 ### XPath for DCR
 
 - [jamesory/MicrosoftSentinelXPATH](https://github.com/jamesory/MicrosoftsentinelXPATH)
-
+- [jeffreyappel/amaagent](https://jeffreyappel.nl/collect-security-events-in-sentinel-with-the-new-ama-agent-and-dcr/)
 
 
 ### Community Repositories
